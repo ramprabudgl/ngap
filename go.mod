@@ -1,4 +1,4 @@
-module github.com/free5gc/ngap
+module github.com/ramprabudgl/ngap
 
 go 1.21
 
