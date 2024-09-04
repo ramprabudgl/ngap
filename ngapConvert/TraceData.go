@@ -6,8 +6,8 @@ import (
 
 	"github.com/free5gc/aper"
 	"github.com/free5gc/ngap/logger"
-	"github.com/free5gc/ngap/ngapType"
-	"github.com/free5gc/openapi/models"
+	"github.com/ramprabudgl/ngap/ngapType"
+	"github.com/ramprabudgl/openapi/models"
 )
 
 func TraceDataToModels(traceActivation ngapType.TraceActivation) (traceData models.TraceData) {

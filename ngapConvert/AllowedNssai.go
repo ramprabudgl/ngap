@@ -1,7 +1,7 @@
 package ngapConvert
 
 import (
-	"github.com/free5gc/ngap/ngapType"
+	"github.com/ramprabudgl/ngap/ngapType"
 	"github.com/ramprabudgl/openapi/models"
 )
 
